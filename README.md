@@ -23,6 +23,6 @@ Automate data scraping from VBET with ease.
 ## scrapeCategoryItems Option
 
 When using `scrapeCategoryItems({ keepOptimized: true })`, the games count in the DOM is kept at 100 for optimized performance.  
-To disable this limit and scrape all available games, simply set `keepOptimized` to `false`, or don't pass any parameter at all.
+To disable this limit and and leave all available games in DOM, simply set `keepOptimized` to `false`, or don't pass any parameter at all.
 
 
